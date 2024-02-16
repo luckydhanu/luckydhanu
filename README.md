@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckydhanu&label=Profile%20views&color=0e75b6&style=flat" alt="luckydhanu" /> </p>
 
-- 🔭 I’m currently working on **Eclipse**
+- 🔭 I’m currently working on **Eclipse Project**
 
 - 🌱 I’m currently learning **Angular,.Net, C#**
 
